@@ -1,5 +1,6 @@
-5.0.0.1
+5.0.1.0
 
+- Fixed multi-output routing: Lucid now follows every playback output enabled in Device Setup, including GoXLR Music/System, without depending on Lucid's Windows Volume Mixer route.
 - Lucid Voice is here. Turn it on and your microphone sounds fuller, clearer, and more consistent.
 - Headset support: pick what you are listening with and Lucid tunes itself to sound right on it. 23 models, each measured and tuned by ear.
 - Tune any profile to your taste with the new Warmth and Brightness dials.
