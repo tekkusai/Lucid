@@ -1,10 +1,6 @@
-5.0.2.0
+5.0.3.0
 
-- Fixed multi-output routing: Lucid now follows every playback output enabled in Device Setup, including GoXLR Music/System, without depending on Lucid's Windows Volume Mixer route.
-- Lucid Voice is here. Turn it on and your microphone sounds fuller, clearer, and more consistent.
-- Headset support: pick what you are listening with and Lucid tunes itself to sound right on it. 41 models, each measured and tuned by ear.
-- Know your headphones by another name, like HD 650 for the HD 6XX? Search finds them either way.
-- Tune any profile to your taste with the new Warmth and Brightness dials.
-- Volume stays steady when you switch profiles.
-- Something sound off? Repair Lucid checks everything and fixes what it finds.
-- A sharper interface, safer updates, and many fixes throughout.
+- Added tuned support for 29 more headsets and headphones, bringing Lucid to 70 enabled models.
+- New additions range from gaming headsets like the Astro A50 Gen 5, SteelSeries Nova 3 and Nova 7 Gen 2 to headphones like the FiiO FT1, HD 800 S, Sundara, LCD-X, and Porta Pro.
+- Fixed correction generation for devices whose left and right measurements use different frequency grids.
+- Astro A50 Gen 5 now has its own tuning and can be identified automatically from its base station.
