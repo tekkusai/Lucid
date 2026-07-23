@@ -1,6 +1,3 @@
-5.0.3.0
+5.0.3.1
 
-- Added tuned support for 29 more headsets and headphones, bringing Lucid to 70 enabled models.
-- New additions range from gaming headsets like the Astro A50 Gen 5, SteelSeries Nova 3 and Nova 7 Gen 2 to headphones like the FiiO FT1, HD 800 S, Sundara, LCD-X, and Porta Pro.
-- Fixed correction generation for devices whose left and right measurements use different frequency grids.
-- Astro A50 Gen 5 now has its own tuning and can be identified automatically from its base station.
+- Made scrollbars easier to see and grab as Lucid's supported-device lists grow.
