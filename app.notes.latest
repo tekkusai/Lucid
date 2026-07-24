@@ -1,3 +1,7 @@
-5.0.3.1
+5.0.4.0
 
-- Made scrollbars easier to see and grab as Lucid's supported-device lists grow.
+- Lucid Voice can now follow your Windows default microphone or stay pinned to a specific capture device.
+- Lucid Voice pauses instead of processing the wrong microphone if the selected device disconnects, then resumes when it returns.
+- Added “Only while gaming,” which can turn Lucid on when an included game starts and off when it ends while respecting manual changes.
+- Game Mode’s advanced options are now tucked behind a clean expandable summary that still shows how many options are active.
+- Fixed sticky focus outlines on dropdowns and refined settings hierarchy, spacing, and controls.
