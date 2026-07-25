@@ -1,8 +1,6 @@
 5.0.5.0
 
-- Choose which microphone Lucid Voice uses, follow the Windows default automatically, or pin a specific microphone.
-- New Only while gaming option turns Lucid on when a game starts and off when it ends without fighting manual choices.
-- Game Mode options are grouped behind a cleaner disclosure, with corrected keyboard focus rings and wrapped settings text.
 - Lucid Voice now updates its audio component cleanly across app versions, preserves working setups when an update fails, and keeps tone saving consistent.
-- Repair now separates device setup from live processing, warns when Windows audio enhancements may prevent processing, and includes recent Equalizer APO diagnostic evidence or a clear administrator instruction.
+- Failed Lucid Voice setup stays visible and retryable instead of falling back to a misleading ready state.
+- Repair now separates device setup from live processing, includes recent Equalizer APO diagnostic evidence, and warns when Windows audio enhancements may prevent processing.
 - Fixed an EQ filter that Equalizer APO could skip.
