@@ -1,6 +1,5 @@
-5.0.5.0
+5.0.5.1
 
-- Lucid Voice now updates its audio component cleanly across app versions, preserves working setups when an update fails, and keeps tone saving consistent.
-- Failed Lucid Voice setup stays visible and retryable instead of falling back to a misleading ready state.
-- Repair now separates device setup from live processing, includes recent Equalizer APO diagnostic evidence, and warns when Windows audio enhancements may prevent processing.
-- Fixed an EQ filter that Equalizer APO could skip.
+- Lucid Voice now clearly shows when microphone setup still needs attention.
+- Lucid Voice now retries automatically after microphone setup is completed.
+- Repair now reports microphone setup more accurately.
