@@ -1,13 +1,3 @@
-5.0.9.0
+5.0.9.1
 
-- Fixed: if an audio driver update left no playback output enabled in Equalizer APO, Lucid could delete its own saved EQ routing.
-- Fixed: re-enabling Night Shift during its scheduled hours could leave it armed without switching to the Night Shift profile for the rest of that window.
-- Fixed: turning Lucid Voice on, or retuning it, could report success when the tuning had not actually been saved.
-- Fixed: Lucid now retries a failed settings save instead of losing your changes, and says so plainly if it still cannot save.
-- Fixed: Lucid no longer asks you to set up a device you are already using.
-- Fixed: when no playback output is enabled in Equalizer APO, Lucid now tells you what to fix instead of stopping quietly.
-- Fixed: with Night Shift scheduling on, the last row of Audio settings could not be scrolled fully into view.
-- New: favorite the headphones you switch between and they stay at the top of the picker.
-- New: the EPOS H6PRO Closed joins the headphone list.
-- Changed: headphone tunings ask for less lift just below 8 kHz, where measurements are least reliable and a large boost reads sharp. Eight tunings changed slightly as a result.
-- Microphone processor optimizations that could result in lower CPU use.
+- Fixed a rare issue that could cause microphone settings to not apply
