@@ -1,3 +1,5 @@
-5.0.9.1
+6.0.0.0
 
-- Fixed a rare issue that could cause microphone settings to not apply
+- A new design with your sound and controls in one place.
+- More consistent sound levels without changing your Windows volume.
+- 86 new in-ear monitor tunings.
