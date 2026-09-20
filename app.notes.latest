@@ -1,5 +1,5 @@
-6.0.0.0
+6.0.1.0
 
-- A new design with your sound and controls in one place.
-- More consistent sound levels without changing your Windows volume.
-- 86 new in-ear monitor tunings.
+- Only while gaming now does what it says. Lucid stays off at the desktop and comes on when you play.
+- The window tells you when Lucid is waiting for a game.
+- Lucid Voice works on its own now, even with Lucid off.
