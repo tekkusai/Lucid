@@ -1,9 +1,8 @@
 6.0.2.0
 
-- Apex Legends stays detected through startup and window-title changes.
-- League of Legends match close no longer waits for its launcher to exit.
-- Lucid respects Equalizer APO custom config directories.
-- First-run EQ waits for a headset answer, including F11.
-- The F11 toast follows a confirmed EQ change while the master cue stays synced with the star.
-- Lucid Voice clears buffered mic audio when turned off.
-- Legacy ProgramData settings migrate separately for each Windows account.
+- Apex Legends stays detected during startup.
+- League of Legends stops showing as active when a match ends.
+- On first run, F11 can't turn Lucid on before you choose a headset.
+- Custom Equalizer APO config folders work, and old settings carry over to each Windows account.
+- Lucid Voice no longer plays old mic audio when switched back on.
+- Other small fixes and optimizations.
