@@ -1,8 +1,3 @@
-6.0.2.0
+6.0.3.0
 
-- Apex Legends stays detected during startup.
-- League of Legends stops showing as active when a match ends.
-- On first run, F11 can't turn Lucid on before you choose a headset.
-- Custom Equalizer APO config folders work, and old settings carry over to each Windows account.
-- Lucid Voice no longer plays old mic audio when switched back on.
-- Other small fixes and optimizations.
+- Melody Wings Venus joins the in-ear list, tuned for its 3.5 mm and 4.4 mm plugs.
